@@ -1,4 +1,4 @@
-# TK
+# TKHacker
 This is a website scanner based on python
 It's easy to use
 cmd python3 main.py -u URL
